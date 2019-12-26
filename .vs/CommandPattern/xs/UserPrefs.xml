@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{7C7F222A-F0BD-2E0E-E9B5-5BA7032CA8F2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Command.cs">
+    <Files>
+      <File FileName="Assets/InputHandler.cs" Line="100" Column="6" />
+      <File FileName="Assets/Command.cs" Line="5" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8c69ebaf-05a4-4032-a8b3-0478dddf643c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
